@@ -1,0 +1,6 @@
+{
+  "name": "Skill Sync AI",
+  "description": "A full-stack, AI-driven skill mapping and tracking platform to trace, learn, and sync essential professional and technical skills with intelligent real-time recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
